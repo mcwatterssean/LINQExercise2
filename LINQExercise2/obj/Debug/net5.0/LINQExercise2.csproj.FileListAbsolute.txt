@@ -1,0 +1,16 @@
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.exe
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.deps.json
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.runtimeconfig.dev.json
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.dll
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\ref\LINQExercise2.dll
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\bin\Debug\net5.0\LINQExercise2.pdb
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.dll
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\ref\LINQExercise2.dll
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.pdb
+C:\Users\mcwat\Desktop\Repos\LINQExercise2\LINQExercise2\obj\Debug\net5.0\LINQExercise2.genruntimeconfig.cache
